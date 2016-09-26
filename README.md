@@ -17,6 +17,7 @@ Ben Tristem & Michael Bridges
 ## VFX 02 Video Effects (VFX)
 ## VFX 03 Source Material
 ## VFX 04 Introduction to Compositing 
+## VFX 05 Matching Camera Settings
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
