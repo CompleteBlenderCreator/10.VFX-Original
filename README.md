@@ -18,6 +18,8 @@ Ben Tristem & Michael Bridges
 ## VFX 03 Source Material
 ## VFX 04 Introduction to Compositing 
 ## VFX 05 Matching Camera Settings
+## VFX 06 Mathematics And Images (Re-recording (29/09/2016)
+## VFX 07 Overlaying Images
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
