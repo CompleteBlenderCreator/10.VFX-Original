@@ -20,6 +20,7 @@ Ben Tristem & Michael Bridges
 ## VFX 05 Matching Camera Settings
 ## VFX 06 Mathematics And Images (Re-recording (29/09/2016)
 ## VFX 07 Overlaying Images
+## VFX 08 Extracting Image Data
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
