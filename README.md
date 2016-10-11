@@ -22,6 +22,7 @@ Ben Tristem & Michael Bridges
 ## VFX 07 Overlaying Images
 ## VFX 08 Extracting Image Data
 ## VFX 09 Blender Camera Tracking: Footage
+## VFX 10 Blender Camera Tracking: Markers
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
