@@ -26,6 +26,9 @@ Ben Tristem & Michael Bridges
 ## VFX 10 Blender Camera Tracking: Markers
 ## VFX 11 Solving Camera Motion
 ## VFX 12 CGI / VFX Final Scene
+## VFX 99 VFX and CGI Wrap Up
+
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
