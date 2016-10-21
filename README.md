@@ -14,6 +14,7 @@ Enjoy yourselves.
 
 Ben Tristem & Michael Bridges
 
+## VFX 01 Introduction to VFX & CGI
 ## VFX 02 Video Effects (VFX)
 ## VFX 03 Source Material
 ## VFX 04 Introduction to Compositing 
