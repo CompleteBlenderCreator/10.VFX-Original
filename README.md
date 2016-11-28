@@ -17,7 +17,7 @@ Ben Tristem & Michael Bridges
 ## VFX 01 Introduction to VFX & CGI
 ## VFX 02 Video Effects (VFX)
 ## VFX 03 Source Material
-## VFX 04 Introduction to Compositing 
+## VFX 04 Introduction to Compositing
 ## VFX 05 Matching Camera Settings
 ## VFX 06 Mathematics And Images (Re-recording (29/09/2016)
 ## VFX 07 Overlaying Images
@@ -26,6 +26,7 @@ Ben Tristem & Michael Bridges
 ## VFX 10 Blender Camera Tracking: Markers
 ## VFX 11 Solving Camera Motion
 ## VFX 12 CGI / VFX Final Scene
+## VFX 13 Transparent Backgrounds
 ## VFX 99 VFX and CGI Wrap Up
 
 
