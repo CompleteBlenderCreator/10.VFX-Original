@@ -97,6 +97,3 @@
 + Relatively straightforward - however the options are hidden away!
 
 ### VFX and CGI Wrap Up ###
-
----
-Find out more about our [Complete Blender Creator Course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount).
