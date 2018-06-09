@@ -92,11 +92,12 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 + Average camera solve error of \<1 is ideal, but not always necessary. We have to test and assess.
 + May have to refine your markers more.
 
-### CGI / VFX Final Scene ###
+### 12 CGI / VFX Final Scene ###
 
 + Import assets you wish to use in your scene.
 + Adjust your camera's view, if it is slightly out.
 + Get the ground ready for shadows.
++ (Updated 9/6/2018)
 
 ### Transparent Backgrounds ###
 
